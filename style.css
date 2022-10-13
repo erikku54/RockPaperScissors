@@ -67,6 +67,12 @@ img.option{
     height: 150px;
 }
 
+img.option:hover{
+    border: 2px solid blue;
+}
+
+
+
 div.message{
 
     font-family:Verdana, Geneva, Tahoma, sans-serif;
